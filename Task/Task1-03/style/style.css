@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+}
+
+.box {
+    border: 1px solid #999;
+    padding: 20px;
+    background-color: white;
+}
+
+.box img {
+    height: 80px;
+    width: 80px;
+}
+
+.container {
+    background-color: #eee;
+}
+
+.left {
+    float: left;
+    position: relative;
+    width: 200px;
+}
+
+.center {
+    margin-left: 220px;
+    margin-right: 140px;
+}
+
+.right {
+    float: right;
+    width: 120px;
+}
+
+.right img {
+    margin-top: 20px;
+}
+
+.right img:first-child {
+    margin-top: 0px;
+}
+
+.team-title {
+    float: right;
+}
