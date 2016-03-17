@@ -1,0 +1,35 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #ccc;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0px 0px -200px;
+    overflow: hidden;
+}
+
+.ball {
+    background-color: #fc0;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.left {
+    position: absolute;
+    left: -50px;
+    top: -50px;
+}
+
+.right {
+    position: absolute;
+    right: -50px;
+    bottom: -50px;
+}
