@@ -1,0 +1,272 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset= "utf-8">
+		<title> 百度任務02——你們還需要增奘恣肆髓平</title>
+		<link rel ="shortcut icon" href="imgs/116-2.gif">
+		<style>
+
+			* {padding: 0;margin: 0;text-decoration: none;}
+			a: link {color: red;}
+			a: visited {color: purple;}
+			a: hover {background-color: gold;}
+			a: active {color: yellow;}
+		
+			h2,h3,h4,h5,h6 {margin-bottom: 20px;padding-top: 10px;padding-left: 10px;}
+		
+			* {border-radius: 8px 8px 8px 8px;}
+			body{font-size: 16px;font-family: "Mircosoft YaHei";}
+		
+		.div-01 {width: 1920px; height: 85px; background: grey;}
+		
+			.div-01 li {width: 155px;height: 155px;background: #304e84;float: left;margin-right: 120px;margin-left: 120px; text-align: center;font-size:40px;font-weight: bolder;padding-top:40px;}
+			.div-01 li:nth-child(5n) {margin-right: 0;}
+			
+			.imgs01 {width: 80px;height: 80px;padding-top: -10px;padding-bottom: -5px;}
+		
+			.div-01 li a {display: block;}
+		
+			ul li {list-style: none;}
+			#block01 {color: red;}
+			#block02 {color: red;}
+			#block03 {color: blue;}
+			#block04 {color: red;}
+			#block05 {color: red;}
+
+			
+		.div-02{width: 150px;height: auto;background: grey;
+
+			}
+
+			.CanKao{
+				width: 150px;text-decoration: none;background-color: green;text-align: center;
+			}
+
+		.div-03 {
+			margin-left: 170px;width: 1770px;height: auto;background-color: #508e98;
+		}
+			.imgs03-1 {
+				margin-top: -210px;width: 1770px;display: inline;
+			}
+			.title01 {
+				text-align: center;		
+			
+				font-size: 80px;
+			}
+			.title02 {
+				font-size: 40px;text-align: center;font-weight: lighter;
+			}
+			.blue {color :#0000ff;}
+			.red {color :#c00;}
+			.white {color :#ccc;}
+					.div-03 p {font-size: 18px;font-family: YouYuan;text-align:center;font-weight: normal;text-indent: 28px;
+				color: gold;line-height:150%;
+			}
+			.imgs03-2 {width: 1770px;height: 995px;}
+			.CanShu {font-size: 18px;font-family: YouYuan;text-align:center;font-weight: normal;color: gold;line-height:150%;}
+
+			.div-04 {
+			margin-left: 170px;width: 1770px;height: 1350px;background-color: #834038;
+		}
+			.title03{
+				font-size: 40px;text-align: left;font-weight: lighter;
+			}
+					.div-04 li {width: 445px;height: 350px;padding-top: auto;padding-left: 10px;padding-bottom: 110px;margin-left: 10px;color: black;
+				list-style: none;text-align: center;text-indent: 28px;float: left;line-height:110%;
+				font-size: 18px;font-family: YouYuan;font-weight: bold;color: blue;
+			}
+			.div-04 img {
+				padding-right: 10px;width: 440px;height: 250px;
+			} 
+			.div-04 li:nth-child() {
+				margin-right: 0;
+			}
+			
+
+			.div-05{
+			margin-left: 170px;width: 1770px;height: auto;background: #f2d4b0;
+		}
+			div>h3 {font-size: 40px;text-align: left;font-weight: lighter;}
+
+			div>table {width: 820px;height: 310px;margin-left: 10px; border: 10px;margin-left: 485px;background-color: black;color: green;text-align: center;}
+			table * {text-align: center;}
+			table>td {color: green;}
+			.list {width:820px;height: 110px;text-align: center;background-color: grey;color: blue;margin-left: 500px;padding-top: 10px;}
+
+			
+			div h4 {text-align: center;padding-bottom: 10px;
+			}
+			
+		
+		</style>
+	</head>
+
+	<body>
+		<link rel= "shortcut icon" href="hhttp://a.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=fb45e7f7a11ea8d38e227002a73a0b3f/503d269759ee3d6d9d44d78744166d224e4adef8.jpg">
+
+		<div class = "div-01">	
+			<ul>
+				<li id="block01">
+					<img class="imgs01" src="http://b.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=98f97842bf0e7bec27da07e71f1e8249/42a98226cffc1e172b7ae07c4d90f603728de9b2.jpg"  alt ="图片挂了TAT" title="蛤蛤">天文
+				</li>
+				<li id="block02">
+					<img class="imgs01" src="http://f.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=f11f6fac282eb938e86d7ef4e552be44/8b82b9014a90f603d675f00a3e12b31bb151edb2.jpg"  alt ="图片挂了TAT" title="蛤蛤">地理
+				</li>
+				<li id="block03">
+					<img class="imgs01" src="http://a.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=334853ac65d9f2d3241120e999dcb162/d009b3de9c82d158840335fc870a19d8bd3e42fd.jpg"  alt ="图片挂了TAT" title="蛤蛤">哲學
+				</li>
+				<li id="block04">
+					<img class="imgs01" src="http://e.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=1b47a9a3b38f8c54e7d3c1290a191684/b21c8701a18b87d69369c452000828381f30fd50.jpg"  alt ="图片挂了TAT" title="蛤蛤">軍事
+				</li>
+				<li id="block05">
+					<img class="imgs01" src="http://h.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=e3766ed559df8db1b82e78623913e625/a8014c086e061d95b56d58757cf40ad162d9ca50.jpg"  alt ="图片挂了TAT" title="蛤蛤">宗教
+				</li>
+			</ul>
+		</div>
+
+		<div class= "div-02">
+			<img id = "img1" src ="http://e.picphotos.baidu.com/album/s%3D900%3Bq%3D90/sign=a25b57742f381f309a1981a9993a3d35/ae51f3deb48f8c54a89aa0633d292df5e0fe7f34.jpg" alt ="图片挂了TAT" titl e="墜無聊的百科" alt ="图片挂了TAT" title="蛤蛤">
+			<ul class="CanKao">
+				<li><a target=_blank href= "#">參考材料一</a></li>
+				<li><a target=_blank href= "#">參考資料二</a></li>
+				<li><a target=_blank href= "#">參考資料三</a></li>
+				<li><a target=_blank href= "#">參考資料四</a></li>
+			</ul>
+		</div>
+
+		<div class= "div-03">
+
+				<img class="imgs03-1" src="http://a.picphotos.baidu.com/album/s%3D1600%3Bq%3D90/sign=9a4fe4746c63f624185d3d05b774d089/738b4710b912c8fcab9e9980fb039245d6882109.jpg" alt ="图片挂了TAT" title="蛤蛤">
+			<h1 class= "title01"> <b class= "blue">沃特F4U</b> <b class= "red">“海盜”</b> <b class ="white">戰鬥機</b> </h1>
+				<br>
+				<br>
+			<h2 class="title02"><i class= "blue">文髒作者：被尊爲</i><i class= "red">“長者”的熊  文髒發飙</i><i class ="white">時間：2016年3月17日</i></h2>
+
+			<h3 class="title03">伊始</h3>
+				<p class="d1">
+					XF4U-1 在1940年5月1日在海軍航空局的觀察下，這架原型機在斯特拉福德和哈特福德之間40英裏的航程上創造了每小時405英裏（651.8km/h）的紀錄。這項成績引起了廣泛關注，媒體紛紛發表文章，聲稱海軍擁有世界上水平速度最高的戰鬥機（實際上，陸軍的P-38閃電也打破了每小時400英裏的記錄，海盜是第一種打破該紀錄的單引擎戰鬥機）。這項紀錄甚至引起了陸軍的興趣，並在“美國現代空軍之父”阿諾德將軍的直接幹預下，産生了美國在二戰中生産數量最多的<a href="#p47">P-47“雷電"</a>戰鬥機。<a href="https://ife.baidu.com">美國海軍</a>對“海盜”狠滿意，并在1941年6月下達584架的訂單。
+					沃特 XF4U-1 海盜（原型機試製型）
+				</p>
+				<img class="imgs03-2" src="https://upload.wikimedia.org/wikipedia/commons/0/08/XF4U-1_NACA_1940.jpeg" alt= "图片挂了TAT" title= "XF4U-1原型机" >
+		<br>
+				<dl class="CanShu">
+					<dt>性能</dt>
+					<dd>翼展:41 ft （12.5 m）</dd>
+					<dd>長度: 33 ft 8 in （10.3 m）</dd>
+					<dd>高度: 16 ft 1 in （4.90 m）</dd>
+					<dd>機翼面積: 314 sq ft （29.17 sq m）</dd>
+					<dd>空重: 9205 lb （4175.3 kg）</dd>
+					<dd>總重: 10074 磅（4569.4 kg）</dd>
+					<dd>最大起飛重量: 14670 （6654.2 kg）</dd>
+					<dd>航程：1070 英裏（1722km）</dd>
+					<dd>爬升率：867米/分</dd>
+					<dd>最大速度: 405mph（651.77km/h）</dd>
+					<dd>最大飛行高度: 41500 ft （12649.2 m）</dd>
+					<dd>最大飛行距離: 1560 mi （2510.5 km）</dd>
+					<dd>發動機：<a href="#">普拉特-惠特尼雙黃蜂發動機</a> 18缸星型發動機2000hp（相當於1500kW）</dd>
+					<dd>英尺（6553.2 米）時 1460 馬力（相當於1089.6kW）</dd>
+					<dd>武器: 機鼻裝有 2 挺 <a href="#">勃朗寧.50大口徑機槍</a></dd>
+				</dl>
+		</div>
+
+		<br>
+		<br>
+
+		<div class="div-04">
+			<h3 class="title03">派生型</h3>	
+				<ul>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/F4U-1_NACA_1943.jpeg" alt= "图片挂了TAT" title= "F4U-1得1座舱与原型机有所后移">
+						<a class="goods" target=_blank href="#">F4U-1 是第一種生産型。在 1942 年 9 月生産線正式開始運轉。第一種生産型對座艙後向視野作了改進，然而這個問題一直到 F4U-1A 安裝了“突出”座艙才最終解決。同時，機鼻安裝的兩挺 0.50 英寸機槍被移到機翼上，所有的 6 挺機槍都安裝在螺旋槳弧之外，因此就不需要安裝射擊協調器。第一型安裝的是 R-2800-8 發動機。一些還安裝了-8W 發動機。這些發動機都可以在起飛時産生 2000 馬力（1492.5kW），安裝注水系統的-8W 型可以緊急産生額外的 250 馬力（186.6kW）。第一型的“海盜”後綴從 A 到 D，P 是照相型</a>
+					</li>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/F4U-2_VFN-101_on_USS_Intrepid_%28CV-11%29_in_1944.jpg" alt= "图片挂了TAT" title= "F4U-2型，注意右翼上的机载雷达">
+						<a class="goods" target=_blank href="#">F4U-2 是第一型的夜間戰鬥型。由于美國海軍的命名原則，飛機被定爲第二型，而不是 F4U-1N。第二型相對于第一型的改變是，在右側機翼和機身無線電倉安裝了可以接收 XAIA（試驗空中截獲【型號】A）的手動雷達裝置。
+						爲了安裝雷達天線，移除了右側機翼最外端的 0.50 英寸機槍。無線電移到駕駛員座位底下，雷達被放到無線電倉。飛機發動機安裝了排氣管火焰抑制器。當加裝了雷達以後，改型比第一型輕了 235 磅</a>
+					</li>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/XF4U-3_NAN6_46.jpg" alt= "图片挂了TAT" title= "F4U-3型">
+						<a class="goods" target=_blank href="#">F4U-3 是“海盜”的一種特殊改型。美國海軍狠長時間一直考慮讓 F4U 在高空（40000 英尺）（12192m）作戰。到了 1943 年下半年，他們給沃特下達了指標，設計師 Russell Clark 使用帶有 1009A 兩級增壓器的 XR-2800-16 型發動機進行設計。
+							計劃開始的時候飛機狠有希望在 40000 英尺達到 2000 馬力。但是由于增壓器的不完善，在制造了幾架之後計劃就被放棄了。第三型可以從機腹大型的進氣口區別出來。</a>
+					</li>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Ww2_157.jpg" alt= "图片挂了TAT" title= "这在发射火箭的F4U-4型">
+						<a class="goods" target=_blank href="#">0F4U-4 是“海盜”最重要的一種型號。制造了 7 架原型機，解決了許多以前發現的問題。從生産線上取下 5 架 F4U-1 來進行改裝，分別是 XF4U-4A，B，C，D，E。從固特異的生産線上取了 2 架 FG-1（同沃特的 F4U-1 相同）。這些飛機都安裝可以産生 2100 馬力（1567kW）的帕拉特-惠特尼 R-2800-18W 發動機，安裝新型 4 葉螺旋槳。飛機還裝有甲醇-水注入系統，可以使飛機 5 分鍾內達到 2450 馬力（1828kW）。18W 所提供的額外動力成爲標准配置，發動機還在下方安裝了增壓裝置，燃油冷卻器仍然裝在機翼中。F4U-4 在 26200 英尺（7985.76m）最高速度 446mph（717.75km/h）；
+							雖然是根據海軍的要求設計的，但是四型可以完成所有戰鬥-轟炸機的任務。飛機擁有 6 挺 0.50 英寸的機翼機槍（F4U-4C 是 4 門 20mm 機炮），另外還可以攜帶 1000 磅（453.6kg）的炸彈或者 5 英寸（127 毫米）火箭。300 架 F4U-1C 在海軍陸戰隊的第 31 空中大隊服役，被用來進行沖繩作戰和裝備護航航母 Sitko Bay 號和 Bereton 號。在沖繩戰鬥的陸軍和海軍陸戰隊士兵稱 F4U-4 爲“沖繩情人”，毫無疑問飛機拯救了數百條生命。</a>
+					</li>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/F4U-5N_VMFN-513_Wonsan_1950.jpeg" alt= "图片挂了TAT" title= "F4U-5N型,挂载火箭弹的夜战型">
+						<a class="goods" target=_blank href="#">F4U-5的原型機於1945 年 12 月試飛。這種型號集成戰爭中發展的所有的技術，最後成爲了 F4U-5“海盜”。首先發動機換成了帕拉特-惠特尼 R-2800-32W。這種發動機稱謂“E 型”，擁有 2 級增壓器，可以在 26200 英尺達到 2350 馬力。緊急馬力可以達到 2760 馬力。單下巴的單級增壓器被雙下巴的 2 級增壓器取代。
+由于馬力的增強，機身加長了 5 英寸（127mm），飛機性能更加穩定。五型以前的上機翼蒙皮和控制舵還是由織物覆蓋的。當高速的時候，織物會變形並導致飛機速度降低幾英裏每小時。F4U-5 用鋁合金取代了所有的織物蒙皮。武器和 F4U-4 相同。
+	此外，F4U-5 進行了一些改進來增加飛行員的舒適度。座艙加熱器被重新設計，控制更加簡單，還加裝了自動駕駛儀。座椅上安裝了扶手，可以用來休息手臂。由于換裝了-32W 發動機，5 型可以狠容易地在 45000 英尺（13716m）操作</a>
+					</li>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/AU-1_Corsair_in_flight_1952.jpg" alt= "图片挂了TAT" title= "AU-1型">
+						<a class="goods" target=_blank href="#">F6U-6本是根據海軍需要而設計的對地攻擊型，但是後用 AU-1 編號加以取代。六型從來沒有生産。AU-1 是專門爲朝鮮戰爭中的美國海軍陸戰隊設計的。從 1952 年開始交貨，總共生産了 111 架飛機。AU-1 安裝 R-2800-83W 雙黃蜂發動機，單級增壓器，起飛的時候最大馬力 2300 hp （1716.4kW），緊急時 2800hp（2089.6kW）。飛機安裝了額外的裝甲。飛機標准的用途是對地攻擊；最大起飛重量接近 10 噸（9071.9kg），但是最大巡航高度是 19500 英尺（5943.6m），最大巡航速度僅僅 238mph（383kph）。對地攻擊要求的是，有足夠的速度對目標攻擊，有足夠的高度讓武器瞄准目標就可以了。　AU-1 可以挂載 10 顆火箭彈或者 4000（1814.4kg）的炸彈，此外機翼中還安裝有 4 門配彈 230 發的 20mm 機炮</a>
+					</li>
+					<li>
+						<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/F4U-7_NAN3-53.jpg" alt= "图片挂了TAT" title= "法国空军涂装的F4U-7型">
+						<a class="goods" target=_blank href="#">F4U-7 是專門爲法國海軍生産的。共生産了 24 架，所有的都賣給了法國。7 型是在 AU-1 的基礎上設計的。七型從 1952 年 6 月開始生産，在 12 月最後一架交付法國，漫長的沃特 F4U“海盜”的生産就此結束了</a>	
+					</li>
+				</ul>
+		</div>
+		
+		<br>
+		<br>
+		<br>
+
+		<div class="div-05">
+			<h3>F4U-1D官方評測</h3>
+				<!-- 下面是表单 -->
+				<table border="1">
+					<tr>
+						<td colspan="6">F4U-1D官方評測</td>
+					</tr>
+					<tr>
+						<td>階段</td> <td>起落架</td> <td>螺旋槳轉速</td> <td>增壓</td> <td>馬力</td> <td>高度</td>
+					</tr>
+					<tr>
+						<td>起飛</td> <td>放下</td> <td>2700</td> <td>1.42</td> <td>1685</td> <td>海平面</td>
+					</tr>
+					<tr>
+						<td>第一次全力平飛</td> <td>放下</td> <td>2700</td> <td>1.42</td> <td>1755</td> <td>3250</td>
+					</tr>
+					<tr>
+						<td>第一次30分鍾淺爬升</td> <td>放下</td> <td>2450</td> <td>1.35</td> <td>1590</td> <td>2500</td>
+					</tr>
+					<tr>
+						<td>第二次全力平飛</td> <td>收起</td> <td>2700</td> <td>1.42</td> <td>1530</td> <td>20000</td>
+					</tr>
+					<tr>
+						<td>第二次30分鍾淺爬升</td> <td>收起</td> <td>2450</td> <td>1.35</td> <td>1455 </td> <td>18000</td>
+					</tr>
+				</table>
+
+				<h3>相關索引</h3>
+					<span id= "p47"><a href="https://en.wikipedia.org/wiki/W.A.R._P-47_Thunderbolt">P-47“雷電"——詳見維基百科</a></span>
+
+				<h3>滋磁這篇文章的話，請留下滋金，感謝</h3>
+				<fieldset class="list">
+					<br>
+					<label>銀行卡號<input type= "text" value= "請酥入銀行卡號"></label>
+					<br>
+					<label>開戶支行<input type= "text" value= "請酥入開戶支行"></label>
+					<br>
+					<label>轉髒密碼<input type= "text" value= "請酥入該銀行卡密碼"></label>
+					<br>
+					<input type= "submit" value= "窩滋磁">
+				</fieldset>
+
+				<form class="list" action="#"><label>
+					對這篇文章的評價：不吼<input type= "radio" name= "gender"> 一般<input type= "radio" name= "gender"> 狠吼<input type= "radio" name= "gender" checked="">
+				</label></form>
+
+				<textarea class="list" cols="100" rows="20">
+					請留下你的精神滋磁
+				</textarea>
+				<h4 id="title">我們不是新聞工作者&copy我們只是在告訴你人生的經驗</h4>
+			</div>
+
+	</body>
+
+</html>
