@@ -1,0 +1,107 @@
+thead tr {
+    background-color: black;
+    color: white;
+}
+
+tbody tr:nth-child(even) {
+    background-color: gainsboro;
+}
+
+tbody tr:nth-child(-n+3) {
+    color: red;
+}
+
+input[type="text"] {
+    width: 80px;
+    margin: 20px;
+    transition: width 1s;
+}
+
+input[type="text"]:focus {
+    width: 160px;
+}
+
+
+.slider {
+    width: 200px;
+    height: 120px;
+    position: relative;
+    background-color: red;
+    overflow: hidden;
+}
+
+@keyframes slider-show {
+    0% {margin-left: 0px;}
+    10% {margin-left: 0px;}
+    20% {margin-left: -200px;}
+    30% {margin-left: -200px;}
+    40% {margin-left: -200px;}
+    50% {margin-left: -200px;}
+    60% {margin-left: -400px;}
+    70% {margin-left: -400px;}
+    80% {margin-left: -400px;}
+    90% {margin-left: -400px;}
+    100% {margin-left: 0px;}
+}
+
+.slider-image {
+    width: 600px;
+    height: 120px;
+    transition: all .5s;
+    /*animation: slider-show 10s infinite;*/
+}
+
+.slider-1 {
+    float: left;
+    background-color: green;
+    width: 200px;
+    height: 100%;
+}
+
+#slider-1:target~.slider-image {
+    margin-left: 0px;
+}
+
+
+.slider-2 {
+    float: left;
+    background-color: blue;
+    width: 200px;
+    height: 100%;
+}
+
+#slider-2:target~.slider-image {
+    margin-left: -200px;
+}
+
+.slider-3 {
+    float: left;
+    background-color: red;
+    width: 200px;
+    height: 100%;
+}
+
+#slider-3:target~.slider-image {
+    margin-left: -400px;
+}
+
+.slider-links {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.slider-links a {
+
+    margin-left: 1px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background-color: rgba(243, 238, 231, 0.6);
+    float: right;
+}
+
+
