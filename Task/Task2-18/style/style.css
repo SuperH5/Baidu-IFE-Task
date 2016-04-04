@@ -1,0 +1,14 @@
+#queue {
+    overflow: auto;
+}
+
+#queue div {
+    margin: 4px;
+    float: left;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    height: 50px;
+    background-color: red;
+    color: white;
+}
